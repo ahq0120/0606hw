@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">趣旅行</string>
+    <string name="action_settings">設定</string>
+    <string name="isDescription">是否需要敘述</string>
+    <string name="paris">巴黎</string>
+    <string name="zurich">蘇黎世</string>
+    <string name="asiacitys">亞洲城市</string>
+    <string name="hk">香港</string>
+    <string name="beijing">北京</string>
+    <string name="optTest">選項文字</string>
+    <string name="fontSize">字型大小</string>
+    <string name="parisDesp">巴黎艾菲爾鐵塔</string>
+</resources>

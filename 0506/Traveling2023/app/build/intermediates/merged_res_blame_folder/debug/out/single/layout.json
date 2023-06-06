@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\content_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\activity_paris.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\activity_paris.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\activity_zurich.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\activity_zurich.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\activity_bejing.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\activity_bejing.xml"
+    },
+    {
+        "merged": "com.example.traveling2023_2.app-mergeDebugResources-39:/layout/content_main.xml",
+        "source": "com.example.traveling2023_2.app-main-42:/layout/content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-mergeDebugResources-39:\\layout\\activity_hkactivity.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.traveling2023_2.app-main-42:\\layout\\activity_hkactivity.xml"
+    }
+]

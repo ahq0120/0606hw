@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fun Traveling</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="isDescription">Description</string>
+    <string name="optTest">Optional</string>
+    <string name="fontSize">Font Size</string>
+    <string name="parisDesp">Eiffel Tower, Paris</string>
+    <string name="paris">PARIS</string>
+    <string name="zurich">ZURICH</string>
+    <string name="asiacitys">ASIA CITY</string>
+    <string name="hk">HONG KONG</string>
+    <string name="beijing">BEIJING</string>
+</resources>
